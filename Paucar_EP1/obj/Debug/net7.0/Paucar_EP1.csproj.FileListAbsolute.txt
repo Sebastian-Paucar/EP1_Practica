@@ -1,0 +1,14 @@
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\bin\Debug\net7.0\Paucar_EP1.exe
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\bin\Debug\net7.0\Paucar_EP1.deps.json
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\bin\Debug\net7.0\Paucar_EP1.runtimeconfig.json
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\bin\Debug\net7.0\Paucar_EP1.dll
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\bin\Debug\net7.0\Paucar_EP1.pdb
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.AssemblyInfoInputs.cache
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.AssemblyInfo.cs
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.csproj.CoreCompileInputs.cache
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.dll
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\refint\Paucar_EP1.dll
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.pdb
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\Paucar_EP1.genruntimeconfig.cache
+C:\Users\jspau\source\repos\Paucar_EP1\Paucar_EP1\obj\Debug\net7.0\ref\Paucar_EP1.dll
